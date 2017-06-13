@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mjphaynes/php-resque": "2.0.*"
+    }
+}
